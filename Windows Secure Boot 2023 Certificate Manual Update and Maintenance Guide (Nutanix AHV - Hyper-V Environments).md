@@ -1,4 +1,4 @@
-**Windows Secure Boot 2023 憑證手動更新與維運指南 (Nutanix AHV / Hyper-V 環境適用)**  
+**Windows Secure Boot 2023 Certificate Manual Update and Maintenance Guide (Nutanix AHV / Hyper-V Environments)**  
 **一、 前置檢查與狀態判定**  
 在執行更新程序前，需先確認客體作業系統（Guest OS）內的安全開機已啟用。  
 **1. 檢查安全開機（Secure Boot）啟用狀態**  
